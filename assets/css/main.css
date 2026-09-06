@@ -179,7 +179,8 @@ h6 {
   color: var(--heading-color);
   padding: 0 8px;
   display: inline-block;
-  font-size: 18px;
+  font-size: 22px;
+  line-height: 1;
   transition: 0.3s;
 }
 
