@@ -1038,17 +1038,17 @@ section,
 }
 
 .hero h1 {
-  font-size: clamp(2rem, 4.2vw, 3.5rem);
+  font-size: clamp(1.5rem, 3.5vw, 2.75rem);
   font-weight: 700;
-  max-width: 24ch;
+  max-width: 30ch;
   margin: 0 auto 1rem;
   line-height: 1.2;
 }
 
 .hero p {
-  max-width: 56ch;
-  font-size: clamp(1rem, 2vw, 1.25rem);
-  margin: 0 auto 1.5rem;
+  max-width: 64ch;
+  font-size: clamp(1rem, 1.5vw, 1.125rem);
+  margin: 0 auto 1rem;
   color: color-mix(in srgb, var(--default-color), transparent 12%);
   line-height: 1.6;
 }
